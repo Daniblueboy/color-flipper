@@ -233,6 +233,15 @@ main {
   background: var(--clr-black);
 }
 
-a,i{
+.container a,i{
   margin: 20px;
+  background-color: black;
+  color:white;
+  border-radius: var(--radius);
+  font-size: 1rem;
+  font-weight: 700;
+  font-family: var(--ff-primary);
+  background: var(--clr-black);
+  color: var(--clr-white);
+  padding: 1rem;
 }
