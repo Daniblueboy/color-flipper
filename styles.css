@@ -244,4 +244,5 @@ main {
   background: var(--clr-black);
   color: var(--clr-white);
   padding: 1rem;
+  font-family: var(--ff-primary);
 }
